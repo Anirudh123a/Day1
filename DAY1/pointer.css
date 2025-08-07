@@ -1,4 +1,5 @@
-
+/* pointer.css - A simple CSS stylesheet for basic HTML elements */
+/* Reset some default styles */ 
 * {
     box-sizing: border-box;
 }
